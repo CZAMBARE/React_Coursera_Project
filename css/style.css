@@ -60,3 +60,11 @@ body{
     min-height: 300px;
 }
 
+.section{
+    visibility: hidden;
+}
+
+#sectionlabel{
+    margin: 0px;
+}
+
